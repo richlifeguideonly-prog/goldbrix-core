@@ -1,3 +1,4 @@
+![GOLDBRIX Logo](logo.png)
 # GOLDBRIX Core
 
 Releases contain linux-x86_64 binaries + checksum.
